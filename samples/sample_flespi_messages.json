@@ -1,0 +1,48 @@
+[
+  {
+    "device.id": "123456",
+    "ident": "352093123456789",
+    "timestamp": 1782600000,
+    "position.latitude": 24.4539,
+    "position.longitude": 54.3773,
+    "position.speed": 0,
+    "engine.ignition.status": false
+  },
+  {
+    "device.id": "123456",
+    "ident": "352093123456789",
+    "timestamp": 1782600300,
+    "position.latitude": 24.454,
+    "position.longitude": 54.3774,
+    "position.speed": 0,
+    "engine.ignition.status": true
+  },
+  {
+    "device.id": "123456",
+    "ident": "352093123456789",
+    "timestamp": 1782600900,
+    "position.latitude": 24.458,
+    "position.longitude": 54.381,
+    "position.speed": 45,
+    "engine.ignition.status": true
+  },
+  {
+    "device.id": "123456",
+    "ident": "352093123456789",
+    "timestamp": 1782601800,
+    "position.latitude": 24.462,
+    "position.longitude": 54.39,
+    "position.speed": 0,
+    "engine.ignition.status": false
+  },
+  {
+    "device.id": "123456",
+    "ident": "352093123456789",
+    "timestamp": 1782602400,
+    "position.latitude": 24.462,
+    "position.longitude": 54.39,
+    "position.speed": 0,
+    "engine.ignition.status": false,
+    "towing.event": true
+  }
+]
