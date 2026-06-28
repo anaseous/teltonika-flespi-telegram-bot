@@ -1,0 +1,22 @@
+{
+  "read_latest_telemetry": {
+    "method": "GET",
+    "url": "https://flespi.io/gw/devices/{device_id}/telemetry/all",
+    "authorization": "FlespiToken {token}"
+  },
+  "read_latest_messages": {
+    "method": "GET",
+    "url": "https://flespi.io/gw/devices/{device_id}/messages?limit=1&reverse=true",
+    "authorization": "FlespiToken {token}"
+  },
+  "update_interval_setting": {
+    "method": "PUT/PATCH according to selected Flespi entity",
+    "url": "https://flespi.io/{selected_entity_path}",
+    "authorization": "FlespiToken {token}",
+    "note": "Use Flespi API Box to select the exact entity: plugin, stream, calculator, device setting, or configuration container."
+  },
+  "send_telegram_reply": {
+    "method": "Flespi Telegram device setting/action",
+    "note": "Use the Flespi Telegram protocol device action: Send a message to the user."
+  }
+}

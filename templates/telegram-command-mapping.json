@@ -1,0 +1,10 @@
+{
+  "/status": "Read latest Flespi telemetry and send Telegram status reply",
+  "/location": "Read latest Flespi position and send Google Maps/OpenStreetMap links",
+  "/interval 5min": "Update Flespi interval setting to 300 seconds",
+  "/interval 15min": "Update Flespi interval setting to 900 seconds",
+  "/interval 1h": "Update Flespi interval setting to 3600 seconds",
+  "/interval off": "Disable periodic location notification rule",
+  "/daily 00:00": "Update daily report schedule",
+  "/report yesterday": "Send previous-day calculator/report output"
+}

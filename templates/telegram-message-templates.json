@@ -1,0 +1,11 @@
+{
+  "location_update": {
+    "text": "\ud83d\udccd Vehicle Location\nIgnition: {{ignition}}\nSpeed: {{speed}} km/h\nGoogle Maps: https://www.google.com/maps?q={{lat}},{{lon}}\nOpenStreetMap: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}#map=18/{{lat}}/{{lon}}"
+  },
+  "towing_alert": {
+    "text": "\ud83d\udea8 Towing Alert\nGoogle Maps: https://www.google.com/maps?q={{lat}},{{lon}}\nOpenStreetMap: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}#map=18/{{lat}}/{{lon}}"
+  },
+  "daily_report": {
+    "text": "\ud83d\udcca Daily Report\nDate: {{date}}\nIdling time: {{idling_time}}\nAverage trip time: {{avg_trip_time}}\nNumber of trips: {{trip_count}}"
+  }
+}
