@@ -55,14 +55,6 @@ Flespi receives the Telegram text message through the **Flespi Telegram protocol
 
 ---
 
-## Important Clarification
-
-This repository contains **configuration documentation and templates only** because no external application is required.
-
-If a solution includes Python, Docker, VPS, Raspberry Pi, webhook receiver, public domain, or local bot process, then it is no longer strictly Teltonika + Flespi + Telegram only.
-
----
-
 ## Repository Contents
 
 ```text
