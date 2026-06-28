@@ -2,7 +2,7 @@
 
 ## Goal
 
-Use only:
+Tech stack
 
 ```text
 Teltonika FMC920/FMB920
