@@ -1,0 +1,10 @@
+{
+  "device.id": "1234567",
+  "ident": "352093123456789",
+  "timestamp": 1782600000,
+  "position.latitude": 24.4539,
+  "position.longitude": 54.3773,
+  "position.speed": 0,
+  "engine.ignition.status": true,
+  "towing.event": false
+}
