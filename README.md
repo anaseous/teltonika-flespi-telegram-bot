@@ -20,10 +20,6 @@ Teltonika FMC920/FMB920
  Telegram Bot
 ```
 
-There is no locally running bot. Telegram is only the chat interface. Flespi is the automation brain.
-
----
-
 ## What Telegram Can Do
 
 Telegram user sends:
