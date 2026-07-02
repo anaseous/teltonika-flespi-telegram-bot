@@ -1,6 +1,6 @@
 # Teltonika FMC920/FMB920 → Flespi → Telegram Bot
 
-A **strictly Teltonika + Flespi + Telegram only** configuration blueprint. No Python app, no Docker, no Raspberry Pi, no VPS, no domain, no custom webhook server, and no external middleware.
+**Teltonika + Flespi + Telegram** configuration blueprint. No Python app, no Docker, no Raspberry Pi, no VPS, no domain, no custom webhook server, and no external middleware.
 
 The tracker sends data to **Flespi**. Flespi parses Teltonika telemetry, calculates events/reports, sends messages to **Telegram**, receives Telegram commands using a Flespi Telegram channel, and updates Flespi configuration using Flespi REST API.
 
